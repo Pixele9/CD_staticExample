@@ -36,7 +36,9 @@ img {
 	width: 940px;
 }
 #header div a.logo {
-	background: url(../images/dogs.jpg) no-repeat center top;
+	background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngriver.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fdownload-Kangaroo-PNG-transparent-images-transparent-backgrounds-PNGRIVER-COM-kangaroo_PNG1-1000x478.png&f=1&nofb=1) no-repeat center top;
+	background-size: contain;
+	/* background: url(../images/dogs.jpg) no-repeat center top; */
 	display: block;
 	height: 306px;
 	text-indent: -99999px;
